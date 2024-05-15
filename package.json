@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
-    "smtp": "^0.1.4"
+    "mssql": "^10.0.2",
+    "smtp": "^0.1.4",
+    "tedious": "^18.2.0"
   }
 }
